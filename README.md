@@ -36,7 +36,7 @@ docker build -t chris/web:latest .
 Voir web/run.sh
 __Faire attention à l'écrasement des données de volumes dans le container__.
 ```bash
-docker cp web:/etc/apache ./etc
+docker cp web:/etc/apache2 ./etc
 docker cp web/etc/ssl ./ssl
 ```
 
