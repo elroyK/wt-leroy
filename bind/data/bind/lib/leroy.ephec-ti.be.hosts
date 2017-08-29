@@ -1,0 +1,13 @@
+$ttl 38400
+leroy.ephec-ti.be.	IN	SOA	ns.leroy.ephec-ti.be. webmaster.leroy.ephec-ti.be. (
+			1496495389
+			10800
+			3600
+			604800
+			38400 )
+leroy.ephec-ti.be.	IN	NS	ns.leroy.ephec-ti.be.
+www.leroy.ephec-ti.be.	IN	A	151.80.119.139
+b2b.leroy.ephec-ti.be.	IN	CNAME	www.leroy.ephec-ti.be.
+intranet.leroy.ephec-ti.be.	IN	CNAME	www.leroy.ephec-ti.be.
+ns.leroy.ephec-ti.be.	IN	A	151.80.119.139
+mail	10799	IN	A	151.80.119.139

@@ -1,0 +1,61 @@
+[Sat Jun 03 12:28:06.451250 2017] [ssl:warn] [pid 6] AH01909: 172.17.0.2:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 12:28:06.514510 2017] [ssl:warn] [pid 6] AH01909: 172.17.0.2:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 12:28:06.517463 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 12:28:06.517517 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 03 12:49:27.016741 2017] [ssl:warn] [pid 8] AH01909: 172.17.0.2:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 12:49:27.086966 2017] [ssl:warn] [pid 8] AH01909: 172.17.0.2:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 12:49:27.089890 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 12:49:27.089941 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 03 13:22:48.326382 2017] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/b2b/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/intranet/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/www/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 13:22:48.434510 2017] [ssl:warn] [pid 8] AH01909: 172.17.0.2:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 13:22:48.434929 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 13:22:48.434938 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 03 14:59:34.558316 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.30.50. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 14:59:34.640601 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 14:59:34.644737 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 14:59:34.644787 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 03 15:00:49.861765 2017] [mpm_prefork:notice] [pid 6] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.30.50. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 15:00:49.993097 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 15:00:49.993516 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 15:00:49.993525 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 03 15:41:38.041452 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.30.50. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 15:41:38.098012 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 15:41:38.100944 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 15:41:38.100976 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jun 03 15:55:54.958430 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.30.50. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 03 15:55:55.044925 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 03 15:55:55.048520 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Sat Jun 03 15:55:55.048570 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Jun 04 06:17:05.856003 2017] [:error] [pid 12] [client 10.20.30.100:53516] script '/var/www/b2b/command.php' not found or unable to stat
+[Mon Jun 05 02:37:43.711061 2017] [:error] [pid 10] [client 10.20.30.100:53634] script '/var/www/b2b/azenv.php' not found or unable to stat, referer: https://proxyradar.com/
+[Tue Jun 06 12:37:43.708506 2017] [:error] [pid 34] [client 10.20.30.100:54448] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://www.leroy.ephec-ti.be/wp-admin/setup-config.php?step=1
+sh: 1: /usr/sbin/sendmail: not found
+[Tue Jun 06 12:53:25.492943 2017] [:error] [pid 8] [client 10.20.30.100:55174] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://b2b.leroy.ephec-ti.be/wp-admin/setup-config.php?step=1
+sh: 1: /usr/sbin/sendmail: not found
+[Tue Jun 06 13:32:57.217115 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.30.50. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 06 13:32:57.417618 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 06 13:32:57.421643 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Tue Jun 06 13:32:57.421678 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Jun 06 13:34:24.611535 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.30.50. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 06 13:34:24.688501 2017] [ssl:warn] [pid 6] AH01909: 10.20.30.50:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 06 13:34:24.691797 2017] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Tue Jun 06 13:34:24.691825 2017] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Jun 08 12:00:37.863308 2017] [:error] [pid 10] [client 10.20.30.100:58482] script '/var/www/b2b/wp-login.php' not found or unable to stat
