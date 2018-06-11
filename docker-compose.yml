@@ -10,7 +10,7 @@ services:
     - ./db/conf.d:/etc/mysql/conf.d
     - ./db/data:/var/lib/mysql
     environment:
-    - MYSQL_ROOT_PASSWORD=batte564
+    - MYSQL_ROOT_PASSWORD=wtadmin2018
     networks:
       intern:
         ipv4_address: 10.20.30.25
